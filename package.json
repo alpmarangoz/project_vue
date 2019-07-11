@@ -11,23 +11,23 @@
     "dotenv": "^6.2.0",
     "material-components-web": "^0.35.0",
     "material-kit": "^2.0.4",
-    "vue": "^2.5.21",
+    "vue": "^2.6.10",
     "vue-mdc-adapter": "^0.15.0",
-    "vue-router": "^3.0.1",
-    "vue-sidebar-menu": "^3.3.0",
-    "vuex": "^3.0.1"
+    "vue-router": "^3.0.7",
+    "vue-sidebar-menu": "^3.11.1",
+    "vuex": "^3.1.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.3.0",
-    "@vue/cli-plugin-eslint": "^3.3.0",
-    "@vue/cli-service": "^3.3.0",
-    "babel-eslint": "^10.0.1",
-    "eslint": "^5.8.0",
-    "eslint-plugin-vue": "^5.0.0",
-    "node-sass": "^4.9.0",
+    "@vue/cli-plugin-babel": "^3.9.2",
+    "@vue/cli-plugin-eslint": "^3.9.2",
+    "@vue/cli-service": "^3.9.2",
+    "babel-eslint": "^10.0.2",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.2.3",
+    "node-sass": "^4.12.0",
     "sass-loader": "^7.0.1",
-    "vue-cli-plugin-material": "^0.2.2",
-    "vue-template-compiler": "^2.5.21"
+    "vue-cli-plugin-material": "^0.2.3",
+    "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
     "root": true,

@@ -4,7 +4,7 @@ import VueSidebarMenu from 'vue-sidebar-menu'
 import VueMDCAdapter from 'vue-mdc-adapter'
 import router from './router'
 import store from './store'
-import MaterialKit from 'material-kit'
+
 
 require('dotenv').config()
 
